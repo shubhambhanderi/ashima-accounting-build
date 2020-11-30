@@ -1,0 +1,50 @@
+{
+  "short_name": "Ashima Accounts",
+  "name": "Ashima Accounting Application",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo512_750x1334.png",
+      "type": "image/png",
+      "sizes": "750x1334"
+    },
+    {
+      "src": "/logo512_1_1242x2208.png",
+      "type": "image/png",
+      "sizes": "750x1334"
+    },
+    {
+      "src": "/logo512_2_1242x2688.png",
+      "type": "image/png",
+      "sizes": "750x1334"
+    },
+    {
+      "src": "/logo512_3_828x1792.png",
+      "type": "image/png",
+      "sizes": "750x1334"
+    },
+    {
+      "src": "/logo512_4_1125x2436.png",
+      "type": "image/png",
+      "sizes": "750x1334"
+    },
+    {
+      "src": "/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#EBEBEB"
+}
